@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Project 13 [Live Link](https://sass-landing-page-13.netlify.app/)
+## Project 13 [Live Link](https://13-sasslandingpage.vercel.app/)
 
 - Skills Gained in this project
 
