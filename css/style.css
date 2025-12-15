@@ -178,7 +178,7 @@ body {
 }
 
 .feature-card {
-  width: 22rem;
+  max-width: 22rem;
   padding-top: 2rem;
   display: flex;
   flex-direction: column;
